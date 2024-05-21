@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "DisplayName": "Railroader",
+        "Category": "Server Settings",
+        "Description": "Railroader Dedicated Server",
+        "Keywords": "railroader",
+        "FieldName": "RailroaderServer",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "RailroaderServer",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
