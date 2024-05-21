@@ -2,9 +2,7 @@
     {
         "UpdateStageName": "Railroader",
         "UpdateSourcePlatform": "Windows",
-        "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "1683150",
-        "UpdateSourceArgs": "1683150",
+        "UpdateSource": "StartApplication",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Windows",
